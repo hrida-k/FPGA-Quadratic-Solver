@@ -129,7 +129,7 @@ Example simulation for $x^2 - 5x + 6 = 0$:
 ├── docs/
 │   ├── architecture.png         # Hardware architecture diagram
 │   ├── simulation.png           # RTL simulation waveform
-│   └── vivado_schematic.png     # Vivado-generated schematic
+│   └── schematic.pdf     # Vivado-generated schematic
 └── README.md
 ```
 
